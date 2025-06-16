@@ -7,6 +7,7 @@
 |    | Book 5      | -                                    | -                                                                    |
 |    | Book 6      | -                                    | -                                                                    |
 | Python        | Book 1      | [Pytonia Battle Simulator](https://github.com/nashville-software-school-workshops/Pytonia-Battle-Simulator) | Syntax, Classes, Inheritance     |
+| | Book 1 | [Val's Vehicles](https://github.com/nashville-software-school-workshops/vals-vehicles) | Classes, packages, inheritance, multiple inheritance |
 |         | Book 2      | -                                    | -                                                                    |
 | C#            | Book 1      | -                                    | -                                                                    |
 |             | Book 2      | -                                    | -                                                                    |
