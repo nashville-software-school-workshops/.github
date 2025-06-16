@@ -1,6 +1,7 @@
 | Section       | Book Number | Title                                | Concepts   |
 |---------------|-------------|--------------------------------------|--------------|
 | Client Side   | Book 2      | [Hogwart's Schedule Manager](https://github.com/nashville-software-school-workshops/Hogwarts-Schedule-Manager) | Debugging    |
+|    |       | [Bug Sandwich](https://github.com/nashville-software-school-workshops/bug-sandwich) | Debugging    |
 |    | Book 3      | -                                    | -                                                                    |
 |    | Book 4      | -                                    | -                                                                    |
 |    | Book 5      | -                                    | -                                                                    |
