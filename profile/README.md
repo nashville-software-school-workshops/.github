@@ -4,11 +4,11 @@
 |   |       | [Hogwart's Schedule Manager](https://github.com/nashville-software-school-workshops/Hogwarts-Schedule-Manager) | Debugging    |
 |    |       | [Bug Sandwich](https://github.com/nashville-software-school-workshops/bug-sandwich) | Debugging    |
 |    | Book 3      | [Monkey Debug Trivia](https://github.com/nashville-software-school-workshops/monkey-debugger-trivia) | Debugging, Code flow |
-|    | Book 3      | [Events & Sausages](https://github.com/nashville-software-school-workshops/sausage-events) | Event listeners, Callback functions |
+|    |     | [Events & Sausages](https://github.com/nashville-software-school-workshops/sausage-events) | Event listeners, Callback functions |
 |    | Book 4      | [The Event Loop](https://github.com/nashville-software-school-workshops/event-loop) | Event Loop, Asynchronicity, Runtime engine, Stack/Queue |
 |    | Book 5      | [Promises at the Deli](https://github.com/nashville-software-school-workshops/daves-deli) | Promises, async/await |
 |    | Book 6      | [Decoration Station](https://github.com/nashville-software-school-workshops/Decoration-Station)  | React |
-|    | Book 6      | [useContext](https://github.com/nashville-software-school-workshops/usecontext-form)  | useContext hook |
+|    |     | [useContext](https://github.com/nashville-software-school-workshops/usecontext-form)  | useContext hook |
 |    |      | [Care Bear Chaos](https://github.com/nashville-software-school-workshops/care-bear-chaos)  | React (no routing, no fetching) |
 | Python        | Book 1      | [Pytonia Battle Simulator](https://github.com/nashville-software-school-workshops/Pytonia-Battle-Simulator) | Syntax, Classes, Inheritance     |
 | | Book 1 | [Val's Vehicles](https://github.com/nashville-software-school-workshops/vals-vehicles) | Classes, packages, inheritance, multiple inheritance |
