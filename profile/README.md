@@ -18,13 +18,3 @@
 |             | Book 3      | [Evil, Inc](https://github.com/nashville-software-school-workshops/Evil-Inc) | .NET API, EFCore |
 |             | Book 4      | [Karaoke Party](https://github.com/nashville-software-school-workshops/karaoke-party) | .NET, Controllers, EFCore, Auth, Vite |
 | - | - | - | - |
-
-
-
-<table>
-  <tr><th>Section</th><th>Book Number</th><th>Title</th><th>Concepts</th></tr>
-  <tr style="background-color: #f2f2f2;"><td>Client Side</td><td>Book 1</td><td>[Keys & Commands](https://github.com/nashville-software-school-workshops/keys-and-commands)</td><td>Basic terminal commands and keyboard shortcuts</td></tr>
-  <tr style="background-color: #f2f2f2;"><td></td><td></td><td>[Hogwart's Schedule Manager](https://github.com/nashville-software-school-workshops/Hogwarts-Schedule-Manager)</td><td>Debugging</td></tr>
-  <tr style="background-color: #f2f2f2;"><td></td><td></td><td>[Bug Sandwich](https://github.com/nashville-software-school-workshops/bug-sandwich)</td><td>Debugging</td></tr>
-  <tr><td>Row 4</td><td>40</td></tr>
-</table>
