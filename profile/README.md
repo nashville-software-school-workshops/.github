@@ -18,3 +18,13 @@
 |             | Book 3      | [Evil, Inc](https://github.com/nashville-software-school-workshops/Evil-Inc) | .NET API, EFCore |
 |             | Book 4      | [Karaoke Party](https://github.com/nashville-software-school-workshops/karaoke-party) | .NET, Controllers, EFCore, Auth, Vite |
 | - | - | - | - |
+
+
+
+<table>
+  <tr><th>Name</th><th>Value</th></tr>
+  <tr style="background-color: #f2f2f2;"><td>Row 1</td><td>10</td></tr>
+  <tr><td>Row 2</td><td>20</td></tr>
+  <tr style="background-color: #f2f2f2;"><td>Row 3</td><td>30</td></tr>
+  <tr><td>Row 4</td><td>40</td></tr>
+</table>
