@@ -1,8 +1,9 @@
 | Section       | Book Number | Title                                | Concepts   |
 |---------------|-------------|--------------------------------------|--------------|
 | Client Side  | Book 1 |  [Keys & Commands](https://github.com/nashville-software-school-workshops/keys-and-commands) | Basic terminal commands and keyboard shortcuts |
-|   |       | [Hogwart's Schedule Manager](https://github.com/nashville-software-school-workshops/Hogwarts-Schedule-Manager) | Debugging    |
-|    |       | [Bug Sandwich](https://github.com/nashville-software-school-workshops/bug-sandwich) | Debugging    |
+|   |       | [Debug Inventory](http://github.com/nashville-software-school-eorkshops/debug-inventory) | Debugging (Sequina surf shop like)
+|   |       | [Hogwart's Schedule Manager](https://github.com/nashville-software-school-workshops/Hogwarts-Schedule-Manager) | Debugging (Bug wrangler ranch like)   |
+|    |       | [Bug Sandwich](https://github.com/nashville-software-school-workshops/bug-sandwich) | Debugging (Browser debugging?)    |
 |    | Book 2      | [Monkey Debug Trivia](https://github.com/nashville-software-school-workshops/monkey-debugger-trivia) | Debugging, Code flow |
 |    |     | [Events & Sausages](https://github.com/nashville-software-school-workshops/sausage-events) | Event listeners, Callback functions |
 |    | Book 3      | [The Event Loop](https://github.com/nashville-software-school-workshops/event-loop) | Event Loop, Asynchronicity, Runtime engine, Stack/Queue |
