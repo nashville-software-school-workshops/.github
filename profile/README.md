@@ -3,8 +3,8 @@
 | Client Side  | Book 1 |  [Keys & Commands](https://github.com/nashville-software-school-workshops/keys-and-commands) | Basic terminal commands and keyboard shortcuts |
 |   |       | [Debug Inventory](http://github.com/nashville-software-school-eorkshops/debug-inventory) | Debugging (Sequina surf shop like)
 |   |       | [Hogwart's Schedule Manager](https://github.com/nashville-software-school-workshops/Hogwarts-Schedule-Manager) | Debugging (Bug wrangler ranch like)   |
-|    |       | [Bug Sandwich](https://github.com/nashville-software-school-workshops/bug-sandwich) | Debugging (Browser debugging?)    |
-|    | Book 2      | [Monkey Debug Trivia](https://github.com/nashville-software-school-workshops/monkey-debugger-trivia) | Debugging, Code flow |
+|    | Book 2      | [Bug Sandwich](https://github.com/nashville-software-school-workshops/bug-sandwich) | Debugging (Browser debugging)    |
+|    |       | [Monkey Debug Trivia](https://github.com/nashville-software-school-workshops/monkey-debugger-trivia) | Debugging, Code flow (Browser debugging) |
 |    |     | [Events & Sausages](https://github.com/nashville-software-school-workshops/sausage-events) | Event listeners, Callback functions |
 |    | Book 3      | [The Event Loop](https://github.com/nashville-software-school-workshops/event-loop) | Event Loop, Asynchronicity, Runtime engine, Stack/Queue |
 |    | Book 4      | [Promises at the Deli](https://github.com/nashville-software-school-workshops/daves-deli) | Promises, async/await |
